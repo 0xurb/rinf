@@ -1,0 +1,2 @@
+# rinf
+Autonomous AI agent
