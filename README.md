@@ -29,7 +29,7 @@
     <a href="https://github.com/0xurb/rinf">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/0xurb/rinf?style=flat&labelColor=22222d&color=383B42">
-          <img src="https://img.shields.io/github/license/0xurb/rinf?style=flat&labelColor=f6f6fa&color=dddfe1" alt="MIT License">
+          <img src="https://img.shields.io/github/stars/0xurb/rinf?style=flat&labelColor=f6f6fa&color=dddfe1" alt="Stars">
         </picture>
     </a>
 </div>
