@@ -1,0 +1,12 @@
+[package]
+name = "rinf-tokenizer"
+version.workspace = true
+edition.workspace = true
+description = "Fast tokenizer, used with Rinf LLM's."
+repository.workspace = true
+license.workspace = true
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
