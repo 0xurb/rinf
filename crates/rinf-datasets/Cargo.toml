@@ -1,0 +1,12 @@
+[package]
+name = "rinf-datasets"
+version.workspace = true
+edition.workspace = true
+description = "A library for creating and managing Rinf LLM's datasets."
+repository.workspace = true
+license.workspace = true
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]

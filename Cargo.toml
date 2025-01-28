@@ -8,7 +8,7 @@ repository = "https://github.com/0xurb/rinf"
 publish = false
 
 [workspace]
-members = ["crates/rinf-tokenizer"]
+members = ["crates/rinf-datasets", "crates/rinf-tokenizer"]
 # default-members = ["bin/*"]
 exclude = [".github/", "**/tests/"]
 

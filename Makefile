@@ -1,9 +1,16 @@
 # List of features to use when building.
 FEATURES ?=
 
+# Path to datasets directory.
+DS_DIR ?= datasets
+
 .PHONY: clean
 clean: ## Perform a `cargo` clean.
 	cargo clean
+
+.PHONY: dsclean
+dsclean: ## Perform a datasets directory contents cleanup.
+	rm -rf $(DS_DIR)/*
 
 .PHONY: fmt
 fmt: ## Perform a `rustfmt` formatting.
